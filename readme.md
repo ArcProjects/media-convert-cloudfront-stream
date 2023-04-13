@@ -1,7 +1,7 @@
 # Video on Demand using MediaConvert, S3, and Cloudfront
 
 # Overview
-[mediaconversion](https://user-images.githubusercontent.com/90862957/231683084-713e383c-3c5b-421e-ad30-d8d17c7bb206.png)
+![mediaconversion](https://user-images.githubusercontent.com/90862957/231683084-713e383c-3c5b-421e-ad30-d8d17c7bb206.png)
 
 We’re going to create a Video on Demand ("CatTube") backend that will take any uploaded video format to a source bucket, convert it to the format we require, and place the output video into another bucket ready to be served by Cloudfront.
 
